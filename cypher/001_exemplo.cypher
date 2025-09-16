@@ -1,0 +1,1 @@
+CREATE (n:Exemplo {id: 1});
